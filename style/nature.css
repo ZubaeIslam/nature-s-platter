@@ -9,6 +9,12 @@
 .nav-bar{
     justify-content: space-between;
 }
+.banner{
+  
+}
+.banner-img{
+    background-color: rgb(243, 243, 231);
+}
 
 .display-flex{
     display: flex;
@@ -27,13 +33,19 @@
     max-width: 850px;
     margin: 0 auto;
     text-align: center;
+   
+
+}
+#services{
+    color: green;
+    font-weight: 800;
 
 }
 .box{
     max-width: 350px;
     margin: 25px auto ;
     text-align: center;
-    background-color: olive;
+    background-color:rgb(182, 241, 94);
     border-radius: 10px;
 }
 .content-box {
